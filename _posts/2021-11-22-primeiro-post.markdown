@@ -16,12 +16,12 @@ Mapa limita a comunidade para pessoas em um raio de 400km de foz do iguaçu:
 Não é nenhuma novidade que já existam milhares de comunidades de interação pela ‘internet’ como grupos de Facebook, Instagram, WhatsApp, todas elas funcionam bem para o que se proponham a fazer, porém, pouquíssimas delas são funcionais para um motivo específico: propor interatividade sincera entre os integrantes que tenham alguma capacidade de perceber a realidade. Esse texto pretende reunir essas pessoas da nossa região, então se você se expor em uma comunidade como essa, naturalmente vão aumentar as oportunidades de encontrar pessoas interessantes por perto com as quais você possa interagir, faze-lo ouvir coisas que você nunca tinha para pensar ou simplesmente encontrar pessoas boas que nunca tinha pensado que poderia existir. 
 
 -----
-<br/><br/>
+
 Pessoas de todas as classes estão vivendo em ‘bolhas’  e  estão crentes sobre suas verdades. Acredite em mim, gostaria que não fosse o caso, mas é, e agora que criamos um mundo artificial em que idiotas estão repetindo e fundamentando suas vidas com o que escutam por aí. Intencionalmente ou não estão propagando ideias e formas de lidar com as coisas que acabará com o mínimo de lucidez que ainda nos sobra. Então é melhor aprendermos e encontramos soluções para nossas vidas utilizando nossas capacidades em coletividade. Agora que já esta incontrolável é no mínimo inteligente termos noção da merda que esta por vir  e estabilizarmos uma comunidade como essa. Porque se recuarmos e deixarmos tudo ao acaso, tudo desabará ao nosso redor de alguma forma aleatória que provavelmente não será melhor que nossos piores erros bem-intencionados.
 
 
 -----
-<br/><br/>
+
 Por que utilizar o Discord e Telegram? As duas plataformas são ideais para minha proposta, oferecem capacidade para ocupar muitas pessoas, além de possuir funções que facilitam  o gerenciamento. A exemplo de ‘bots’, enquetes e banimento de possíveis idiotas maliciosos.
 
 
