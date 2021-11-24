@@ -17,6 +17,14 @@ title : "Links da comunidade"
 
 [telegram-link]: https://t.me/ascesesense
 
+.site-title::before {
+    content: url("/alsprolog-logo.png");
+    display: inline-block;
+    position: relative;
+    width: 37px;
+    top: 5px;
+}
+
 
 
 
