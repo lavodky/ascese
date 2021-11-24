@@ -9,6 +9,7 @@ A ideia de criar uma comunidade descentralizada com pessoas da nossa região fom
 
 -----
 Mapa limita a comunidade para pessoas em um raio de 400km de foz do iguaçu:
+<br/><br/>
 ![400km_rad](https://raw.githubusercontent.com/lavodky/ascese/gh-pages/assets/400km_rad_re.jpg)
 
 -----
