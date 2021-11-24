@@ -3,7 +3,7 @@ layout: post
 title:  "Idiotas vão acabar nos matando"
 date:   2021-11-22 18:43:04 -0300
 categories: jekyll update
-permalink: "/idiotas-vão-acabar-nos-matando/"
+permalink: "/idiotas-vao-acabar-nos-matando/"
 ---
 A ideia de criar uma comunidade descentralizada com pessoas da nossa região fomentará não somente um lugar onde as pessoas possam se conhecer e fazer amigos, mas também em algum momento será útil para qualquer coisa da vida “real” fora da ‘internet’. Uma comunidade em que pessoas entram em contato e criarem vinculo entre si.
 ![400km_rad](https://raw.githubusercontent.com/lavodky/ascese/gh-pages/assets/400km_rad.png)
