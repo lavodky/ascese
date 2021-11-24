@@ -8,13 +8,11 @@ permalink: "/idiotas-vao-acabar-nos-matando/"
 A ideia de criar uma comunidade descentralizada com pessoas da nossa região fomentará não somente um lugar onde as pessoas possam se conhecer e fazer amigos, mas também em algum momento será útil para qualquer coisa da vida “real” fora da ‘internet’. Uma comunidade em que pessoas entrarão em contato para criarem vinculo entre si.
 
 -----
-<br/><br/>
 Mapa limita a comunidade para pessoas em um raio de 400km de foz do iguaçu:
 <br/><br/>
 ![400km_rad](https://raw.githubusercontent.com/lavodky/ascese/gh-pages/assets/400km_rad_re.jpg)
 
 -----
-<br/><br/>
 Não é nenhuma novidade que já existam milhares de comunidades de interação pela ‘internet’ como grupos de Facebook, Instagram, WhatsApp, todas elas funcionam bem para o que se proponham a fazer, porém, pouquíssimas delas são funcionais para um motivo específico: propor interatividade sincera entre os integrantes que tenham alguma capacidade de perceber a realidade. Esse texto pretende reunir essas pessoas da nossa região, então se você se expor em uma comunidade como essa, naturalmente vão aumentar as oportunidades de encontrar pessoas interessantes por perto com as quais você possa interagir, faze-lo ouvir coisas que você nunca tinha para pensar ou simplesmente encontrar pessoas boas que nunca tinha pensado que poderia existir. 
 
 -----
