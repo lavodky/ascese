@@ -19,7 +19,6 @@ Não é nenhuma novidade que já existam milhares de comunidades de interação 
 
 Pessoas de todas as classes estão vivendo em ‘bolhas’  e  estão crentes sobre suas verdades. Acredite em mim, gostaria que não fosse o caso, mas é, e agora que criamos um mundo artificial em que idiotas estão repetindo e fundamentando suas vidas com o que escutam por aí. Intencionalmente ou não estão propagando ideias e formas de lidar com as coisas que acabará com o mínimo de lucidez que ainda nos sobra. Então é melhor aprendermos e encontramos soluções para nossas vidas utilizando nossas capacidades em coletividade. Agora que já esta incontrolável é no mínimo inteligente termos noção da merda que esta por vir  e estabilizarmos uma comunidade como essa. Porque se recuarmos e deixarmos tudo ao acaso, tudo desabará ao nosso redor de alguma forma aleatória que provavelmente não será melhor que nossos piores erros bem-intencionados.
 
-
 -----
 
 Por que utilizar o Discord e Telegram? As duas plataformas são ideais para minha proposta, oferecem capacidade para ocupar muitas pessoas, além de possuir funções que facilitam  o gerenciamento. A exemplo de ‘bots’, enquetes e banimento de possíveis idiotas maliciosos.
