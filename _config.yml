@@ -25,15 +25,17 @@ description: >- # this means to ignore newlines until "baseurl:"
   e ou no canal do discord 
 baseurl: "ascese" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-instagram_username: _lavodky_
+instagram_username: _zkowsky
 youtube_username: ascese
 
 
 
 # Build settings
 theme: minima
-plugins:
-- jekyll-feed
+#plugins:
+#- jekyll-feed
+post limit: 0
+excerpt_only: true 
 
 # Exclude from processing.
 # The following items will not be processed, by default.
