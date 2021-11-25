@@ -8,6 +8,6 @@ permalink: "/pc-vs-pessoas/"
 
 <h1> Alguns confiam no trabalho das pessoas. Eu confio no trabalho dos computadores.</h1>
 <br/><br/>
-![meme](/assets/comp_meme/)
+![meme](https://github.com/lavodky/ascese/blob/gh-pages/assets/comp_meme.jpg)
 
 
