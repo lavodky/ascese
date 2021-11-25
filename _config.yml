@@ -34,8 +34,7 @@ youtube_username: ascese
 theme: minima
 #plugins:
 #- jekyll-feed
-post limit: 0
-excerpt_only: true 
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
