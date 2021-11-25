@@ -5,8 +5,11 @@ date:   2021-11-22 18:43:04 -0300
 categories: jekyll update
 permalink: "/idiotas-vao-acabar-nos-matando/"
 ---
-A [invenção](https://www.dicio.com.br/criacao/) de coisas novas  está desaparecendo. Quando aparecem, são apenas fraudes e intermediários.E as empresas de tecnologia(na verdade empresas de publicidade). Golpistas. 
+A [invenção](https://www.dicio.com.br/criacao/) de coisas novas  está desaparecendo. Quando aparecem, são apenas fraudes e intermediários. E as empresas de tecnologia(na verdade empresas de publicidade). Golpistas. A menos que paremos de falar em mentiras e de contar histórias falsas, não temos esperança
+
 <br/><br/>
+
+Estou pronto para apoiar um "Julio César" quando ele aparecer. Ouvi dizer que ele falou e pensou duas vezes mais rápido do que um homem normal, vamos logo identificá-lo quando ele aparecer. Tenho conhecimentos de informática e serei um soldado do seu exército. Alguém com força real, não um charlatão em busca de status. 
 
 
 
