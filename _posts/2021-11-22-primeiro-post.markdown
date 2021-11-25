@@ -5,6 +5,13 @@ date:   2021-11-22 18:43:04 -0300
 categories: jekyll update
 permalink: "/idiotas-vao-acabar-nos-matando/"
 ---
+A [invenção](https://www.dicio.com.br/criacao/) de coisas novas  está desaparecendo. Quando aparecem são apenas fraudes e intermediários.E as empresas de tecnologia(na verdade empresas de publicidade).São golpistas.Sedentos de poder com um truque legal de gritar alto sobre como todo mundo é racista afim de poder.
+<br></br>
+<br></br>
+
+
+
+---
 A ideia de criar uma comunidade descentralizada com pessoas da nossa região fomentará não somente um lugar onde as pessoas possam se conhecer e fazer amigos, mas também em algum momento será útil para qualquer coisa da vida “real” fora da ‘internet’. Uma comunidade em que pessoas entrarão em contato para criarem vinculo entre si.
 
 -----
