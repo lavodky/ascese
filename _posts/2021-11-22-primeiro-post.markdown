@@ -21,10 +21,6 @@ Caso contrário, que esperança realmente temos? vamos continuar criando relaço
 chances de reunirmos pessoas com real interesse por perto? 
 
 
-
-Caso contrário, que esperança realmente temos?
-
-
 -----
 Não é nenhuma novidade que já existam milhares de comunidades de interação pela ‘internet’ como grupos de Facebook, Instagram, WhatsApp, todas elas funcionam bem para o que se proponham a fazer, porém, pouquíssimas delas são funcionais para um motivo específico: propor interatividade sincera entre os integrantes que tenham alguma capacidade de perceber a realidade. Esse texto pretende reunir essas pessoas da nossa região, então se você se expor em uma comunidade como essa, naturalmente vão aumentar as oportunidades de encontrar pessoas interessantes por perto com as quais você possa interagir, faze-lo ouvir coisas que você nunca tinha para pensar ou simplesmente encontrar pessoas boas que nunca tinha pensado que poderia existir. 
 
