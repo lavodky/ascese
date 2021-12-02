@@ -18,10 +18,7 @@ Portanto, o que se aprende quando você vai para uma faculdade é "aprender" a l
   <li>base de dados </li>
 </ol>
 
----
 Memorizar sintaxe estúpida -→ ganhar um bom dinheiro → sociedade continua uma #¿$?%!¡
 
 
-
----
-"C lhe dá poder sobre a falsa realidade da abstração e o libertara da estupidez."
+"C lhe dá poder sobre a falsa realidade da abstração e o libertara da estupidez." - Learn code the hardway
