@@ -31,7 +31,7 @@ Por que utilizar o Discord e Telegram? As duas plataformas são ideais para minh
 
 
 <br/><br/>
-Mapa limita a comunidade para pessoas em um raio de 400km de foz do iguaçu:
+por uma questão de locomoção o mapa limita a comunidade para pessoas em um raio de 400km de foz do iguaçu:
 
 ![400km_rad](https://raw.githubusercontent.com/lavodky/ascese/gh-pages/assets/400km_rad_re.jpg)
 
