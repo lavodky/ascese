@@ -11,7 +11,7 @@ pgp key:
 Comment: https://keybase.io/lavodky
 Version: Keybase Go 5.8.0 (windows)
 
-xsFNBGGdgNsBEACvuhyB8Hla/GSX3XU4zbyS7SwhX0kWDSMYMU+hONd5WlxPKluj
+'xsFNBGGdgNsBEACvuhyB8Hla/GSX3XU4zbyS7SwhX0kWDSMYMU+hONd5WlxPKluj
 dBJ2rZAxl/icw/IHo5Y1nfd6fqsbA7Spr8tuqG03MiqtLSJWrKGogIxlZCks0YNW
 IxToX9w4sZEVnLZepDmb7kMY64P4uCSCWNFBG2nBChRkqr6yTCFR4xmrn5CnON9e
 J9CPB7Tadyj09pYPQHoxyVMSno7R6sxtFslFtt9XFWvEBgxkEPUYkHO0NUYfRpTa
@@ -58,7 +58,7 @@ gbqPRv1/L1yt+WDQUIPCskMIFnguJ//hNRd/5fxQw1i2sMlDLkdW+Slt304nIcWR
 xQFDC+Wxg3qSnNPgkzPSFfE5kN4buWeY/DaIcgrZK2IaAXX/R7JN9NI8wsZ2bYZl
 doZ7sfj2ZwrD7pfpK/RaVrVPvSC8j7JcLOaSbKsmoOUA1NrJOta2+uSd+nMYny2N
 gO/8367m0zSzwvHqBvr3ag==
-=yw/b
+=yw/b'
 -----END PGP PUBLIC KEY BLOCK-----
 
 ----
