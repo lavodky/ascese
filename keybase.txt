@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/lavodky
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://lavodky.github.io
+  * I am lavodky (https://keybase.io/lavodky) on keybase.
+  * I have a public key ASATorGmube-fPmgC32qUK9SQ0Tcx92gr1DR4qzakzTulAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012013a2b1a6b9b7be7cf9a00b7daa50af524344dcc7dda0af50d1e2acda9334ee940a",
+      "host": "keybase.io",
+      "kid": "012013a2b1a6b9b7be7cf9a00b7daa50af524344dcc7dda0af50d1e2acda9334ee940a",
+      "uid": "0fd4ff8b51e5f26931cd426a48c96819",
+      "username": "lavodky"
+    },
+    "merkle_root": {
+      "ctime": 1638549490,
+      "hash": "807368426e2dc288857bf90689e1e7393b4a61565bbd1663f16bb82d3821eeaefe83e4bc52db2cc56a2ac1342de9e86a92a26148016a556ecc213d59943d6749",
+      "hash_meta": "70c21fb40a9e5a41b7a76e197534199723efb620c06ab89779885916095d7be8",
+      "seqno": 21356668
+    },
+    "service": {
+      "entropy": "7HT/oqtqCqMxuzpLnBy7erEg",
+      "hostname": "lavodky.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.8.0"
+  },
+  "ctime": 1638549515,
+  "expire_in": 504576000,
+  "prev": "b0a2c49dbf077aab382877945412a2357ecfad6979b2757464fd979a1d51bedb",
+  "seqno": 13,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgE6Kxprm3vnz5oAt9qlCvUkNE3MfdoK9Q0eKs2pM07pQKp3BheWxvYWTESpcCDcQgsKLEnb8Heqs4KHeUVBKiNX7PrWl5snV0ZP2Xmh1RvtvEIEKh18aS93PA66nnAJvPFjKltpQzFqlMlKCYAaIvf2YYAgHCo3NpZ8RAFj+tkuFU1o8hT0U8Rbcfs9RSYn2UTc6NvuGuH5G0CFxplsVZVomRQ0WHMLgFpjGF1c8jSVoNL4WtzpfyRYJHC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINlBFnFMVFIpRu3A4I5NyHKHOr0Yf8ptIlNm2PHYIM0Co3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/lavodky
+
+==================================================================
