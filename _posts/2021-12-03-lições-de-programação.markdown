@@ -12,8 +12,11 @@ Entrada → computation → saída
 
 composição de um programa:
 .text: instruções
-bss: dados estáticos			
-stack: variáveis locais  
+<br/><br/>
+bss: dados estáticos
+<br/><br/>			
+stack: variáveis locais
+<br/><br/>  
 heap: malloc
 
 ```
