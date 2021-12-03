@@ -4,7 +4,7 @@ https://keybase.io/lavodky
 
 I hereby claim:
 
-  * I am an admin of https://lavodky.github.io/ascese/
+  * I am an admin of https://lavodky.github.io/ascese
   * I am lavodky (https://keybase.io/lavodky) on keybase.
   * I have a public key ASATorGmube-fPmgC32qUK9SQ0Tcx92gr1DR4qzakzTulAo
 
