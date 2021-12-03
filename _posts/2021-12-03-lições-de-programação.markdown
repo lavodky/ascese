@@ -16,11 +16,11 @@ bss: dados estáticos
 stack: variáveis locais  
 heap: malloc
 
-`
+```
 #include <stdio.h>
 #include <stdlib.h>
 int main(){
 printf("teste");
 
 }
-`
+```
