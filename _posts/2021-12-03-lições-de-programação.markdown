@@ -11,13 +11,10 @@ O que é um programa?
 Entrada → computation → saída
 
 composição de um programa:
-.text: instruções
-<br/><br/>
-bss: dados estáticos
-<br/><br/>			
-stack: variáveis locais
-<br/><br/>  
-heap: malloc
+.text: instruções<br/><br/>
+bss: dados estáticos<br/><br/>
+stack: variáveis locais<br/><br/>
+heap: malloc<br/><br/>
 
 ```
 #include <stdio.h>
