@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "--->Idiotas vão acabar nos matando<---"
+title:  "Idiotas vão acabar nos matando"
 date:   2021-11-22 18:43:04 -0300
 categories: jekyll update
 permalink: "/idiotas-vao-acabar-nos-matando/"
@@ -32,7 +32,7 @@ Não é nenhuma novidade que já existam milhares de comunidades de interação 
 
 Por que utilizar o Discord e Telegram? As duas plataformas são ideais para essa proposta, oferecem capacidade para ocupar muitas pessoas, além de possuir funções que facilitam  o gerenciamento. A exemplo de ‘bots’, enquetes e banimento de possíveis idiotas maliciosos.
 
-<big/> ---> [LINKS AQUI](https://lavodky.github.io/ascese/links/) <--- <big/>
+<big> ---> [LINKS AQUI](https://lavodky.github.io/ascese/links/) <--- <big/>
 
 
 <br/><br/>
