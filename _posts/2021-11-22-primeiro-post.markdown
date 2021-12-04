@@ -31,7 +31,8 @@ Não é nenhuma novidade que já existam milhares de comunidades de interação 
 
 
 Por que utilizar o Discord e Telegram? As duas plataformas são ideais para essa proposta, oferecem capacidade para ocupar muitas pessoas, além de possuir funções que facilitam  o gerenciamento. A exemplo de ‘bots’, enquetes e banimento de possíveis idiotas maliciosos.
----> [LINKS AQUI](https://lavodky.github.io/ascese/links/)
+
+<big/> ---> [LINKS AQUI](https://lavodky.github.io/ascese/links/) <--- <big/>
 
 
 <br/><br/>
