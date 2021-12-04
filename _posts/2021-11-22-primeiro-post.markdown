@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Idiotas vão acabar nos matando"
+title:  "--->Idiotas vão acabar nos matando<---"
 date:   2021-11-22 18:43:04 -0300
 categories: jekyll update
 permalink: "/idiotas-vao-acabar-nos-matando/"
@@ -20,7 +20,7 @@ Pessoas de todas as classes estão vivendo em ‘bolhas’  e  estão crentes so
 A ideia de criar uma comunidade descentralizada com pessoas da nossa região fomentará não somente um lugar onde as pessoas possam se conhecer e fazer amigos, mas também em algum momento será útil para qualquer coisa da vida “real” fora da ‘internet’.
 
 
-Caso contrário, que esperança realmente temos? vamos continuar criando relaçoes falsas e dando sentido para pessoas que nunca irão mudar? ou vamos maximizar as 
+Caso contrário, que esperança realmente temos? vamos continuar criando relações falsas e dando sentido para pessoas que nunca irão mudar? ou vamos maximizar as 
 chances de reunirmos pessoas com real interesse por perto? 
 
 
@@ -31,6 +31,7 @@ Não é nenhuma novidade que já existam milhares de comunidades de interação 
 
 
 Por que utilizar o Discord e Telegram? As duas plataformas são ideais para essa proposta, oferecem capacidade para ocupar muitas pessoas, além de possuir funções que facilitam  o gerenciamento. A exemplo de ‘bots’, enquetes e banimento de possíveis idiotas maliciosos.
+---> [LINKS AQUI](https://lavodky.github.io/ascese/links/)
 
 
 <br/><br/>
