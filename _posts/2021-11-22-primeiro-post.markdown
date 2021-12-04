@@ -9,7 +9,7 @@ permalink: "/idiotas-vao-acabar-nos-matando/"
 Criar um meio social é uma forma de proteger as pessoas contra o fracasso. Crie relações certas
 com valores e objetivos e talvez ainda temos alguma chance de defesa contra vinculos falsos que não
 dão em nada. Uma comunidade em que pessoas entrarão em contato para criarem vínculo e enriquecer a consciência.
-Deve ser livre de propaganda e apenas pessoas de confiança estarão entre nós.
+Um dos nossos irá garatir que a comunidade seja livre de propaganda e que apenas pessoas de confiança estejam entre nós.
 
 
 
