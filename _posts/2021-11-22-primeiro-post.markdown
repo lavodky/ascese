@@ -14,8 +14,10 @@ dão em nada.
 Pessoas de todas as classes estão vivendo em ‘bolhas’  e  estão crentes sobre suas verdades. Acredite em mim, gostaria que não fosse o caso, mas é, e agora que criamos um mundo artificial em que idiotas estão repetindo e fundamentando suas vidas com o que escutam por aí. Intencionalmente ou não estão propagando ideias e formas de lidar com as coisas que acabará com o mínimo de lucidez que ainda nos sobra. Então é melhor aprendermos e encontramos soluções para nossas vidas utilizando nossas capacidades em coletividade. Agora que já esta incontrolável é no mínimo inteligente termos noção da merda que esta por vir  e estabilizarmos uma comunidade como essa. Porque se recuarmos e deixarmos tudo ao acaso, tudo desabará ao nosso redor de alguma forma aleatória que provavelmente não será melhor que nossos piores erros bem-intencionados.
 
 ----
-A ideia de criar uma comunidade descentralizada com pessoas da nossa região fomentará não somente um lugar onde as pessoas possam se conhecer e fazer amigos, mas também em algum momento será útil para qualquer coisa da vida “real” fora da ‘internet’. Uma comunidade em que pessoas entrarão em contato para criarem vínculo entre si. 
+A ideia de criar uma comunidade descentralizada com pessoas da nossa região fomentará não somente um lugar onde as pessoas possam se conhecer e fazer amigos, mas também em algum momento será útil para qualquer coisa da vida “real” fora da ‘internet’. Uma comunidade em que pessoas entrarão em contato para criarem vínculo e enriquecer a consciência. 
 
+
+Deve ser livre de propaganda  e apenas pessoas de confiança estarão entre nós. 
 
 Caso contrário, que esperança realmente temos? vamos continuar criando relaçoes falsas e dando sentido para pessoas que nunca irão mudar? ou vamos maximizar as 
 chances de reunirmos pessoas com real interesse por perto? 
@@ -32,8 +34,9 @@ Por que utilizar o Discord e Telegram? As duas plataformas são ideais para minh
 
 <br/><br/>
 Por uma questão de locomoção o mapa limita a comunidade para pessoas em um raio de 400km de foz do iguaçu:
-
+(O raio pode aumentar a medida que encontramos mentes compativeis com o projeto)
 ![400km_rad](https://raw.githubusercontent.com/lavodky/ascese/gh-pages/assets/400km_rad_re.jpg)
+
 
 
 
