@@ -19,7 +19,7 @@ permalink: "/programação/"
 
 <br/><br/>
 <h1> Pointeiro </h1> 
-**Tudo é ponteiro** 🤣🤣
+**Tudo é ponteiro**
 
 ```c
 #include <stdio.h>
