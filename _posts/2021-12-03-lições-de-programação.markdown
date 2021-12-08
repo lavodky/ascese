@@ -73,7 +73,9 @@ printf(“%d\n”, p+1); // este endereço será 2006 porque cada inteiro precis
 ![pointer](https://www.log2base2.com/images/c/pointer-to-pointer.png)
 <br/><br/>
 <br/><br/>
+
 ----
+
 **1 byte = 8bits**
 
 **cada int tem 4 bytes que são 32 bits**
