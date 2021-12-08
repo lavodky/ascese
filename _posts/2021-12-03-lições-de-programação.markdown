@@ -56,7 +56,7 @@ int *p;
 p = &a;
 
 
-//<h1>aritmética com ponteiros</h1>
+
 printf(“%d\n”, p);  // suponha que esse endereço seja 2002
 printf(“%d\n”, p+1); // este endereço será 2006 porque cada inteiro precisa de 4 bytes para ser armazenado logo o próximo endereço é o endereço anterior + 4
 //printf(“%d\n”, *(p+1); código acessa e mostra na teal  o valor dentro do endereço de p+1 caso ele existisse
@@ -139,17 +139,6 @@ printf (%d, c2[1]);
 
 }
 ```
-
-
-| L | A | V | O | D | K | Y | \0 |
-|---|---|---|---|---|---|---| ---|
- 200 201 202 203 204 205 206  207
-  ^
-  
-
-| 200 |   …
-|-------|   …
-  400  
 
 
 -->Usar o nome do array retorna o endereço do primeiro elemento no array
