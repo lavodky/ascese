@@ -154,8 +154,8 @@ suponha que o endereço “400” guarde o endereço de memória “200”, send
 #include <stdio.h>
 #include <stdlib.h>
 int main(){
-int b[2][3] = {1,2,3,4,5,6}; // vetor 2d
-int (*p)[3] = b
+int b [2] [3] = {1,2,3,4,5,6} // vetor 2d
+int (*p) [3] = b
 //print b; // 400 → endereço para a primeira posição do vetor
 //print *b //400 
 //print b[0] //400
@@ -168,9 +168,7 @@ int (*p)[3] = b
 ```c
 int main(){
 
-int c[3] [2] [2]= {{{2, 5}, {7,9}}, 
-		{{3,4}, {6 ,1}},
-		{{0,8}, {11,13}}};
+int c[3] [2] [2]= {2, 5, 7, 9, 3, 4, 6 ,1, 0, 8, 11, 13};
 
 //vetor 3d -> c[i] [j] [k] -> 3 blocos de 2 colunas e 2 linhas cada 
 		
