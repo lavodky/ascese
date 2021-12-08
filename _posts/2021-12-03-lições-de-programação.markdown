@@ -128,7 +128,7 @@ p = &i;
 *caractere arrays e ponteiros*
 ```c
 int main(){
-char c1 [8] = “lavodky”
+char c1 [8] = {l,a,v,o,d,k,y};
 
 char *c2;
 
@@ -154,7 +154,7 @@ suponha que o endereço “400” guarde o endereço de memória “200”, send
 #include <stdio.h>
 #include <stdlib.h>
 int main(){
-int b[2][3]; // vetor 2d
+int b[2][3] = {1,2,3,4,5,6}; // vetor 2d
 int (*p)[3] = b
 //print b; // 400 → endereço para a primeira posição do vetor
 //print *b //400 
