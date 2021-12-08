@@ -22,4 +22,4 @@ Você pode pensar em business/exigências como uma função para habilitar um cl
 Memorizar sintaxe estúpida → ganhar um bom dinheiro → sociedade continua uma #¿$?%!¡
 
 
-"C lhe dá poder sobre a falsa realidade da abstração e o libertara da estupidez." - Learn code the hardway
+"C lhe dá poder sobre a falsa realidade da abstração e o libertara da estupidez." - Learn code the hard way
