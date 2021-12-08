@@ -6,9 +6,10 @@ categories: jekyll update
 permalink: "/programação/"
 ---
 
-O que é um programa? entrada → computation → saída
+<h1> O que é um programa?</h1> 
+**entrada → computation → saída**
 
-arquitetura da memória :
+##arquitetura da memória :
 <ol>
 <li value = "1" >text: instruções</li>
 <li>bss: dados estáticos</li>
@@ -16,8 +17,9 @@ arquitetura da memória :
 <li>heap: malloc, calloc, realloc, free</li>
 </ol>
 
-
-
+<br/><br/>
+<h1> Pointeiro </h1> 
+**Tudo é ponteiro** 🤣🤣
 
 ```c
 #include <stdio.h>
@@ -32,6 +34,8 @@ int main()
 
 
 ```
+
+
 
 
 ```c
@@ -53,7 +57,7 @@ double *p1= &d;     // ponteiro para double
 int main () {
 int a = 10;
 int *p;
-p = &a;
+p = &a; // pega o endereço e assina como um ponteiro
 
 
 
@@ -65,10 +69,13 @@ printf(“%d\n”, p+1); // este endereço será 2006 porque cada inteiro precis
 
 
 ```
+<h1> Ponteiro para ponteiro </h1> 
+![pointer](https://www.log2base2.com/images/c/pointer-to-pointer.png)
 **1 byte = 8bits**
 
 **cada int tem 4 bytes que são 32 bits**
 
+**“dereferencing” ir no endereço de memória que o ponteiro esta apontando e acessar o valor que esta la  (*p)**
 
 ```c
 
@@ -87,29 +94,26 @@ printf(“%d”, **dptr); // acessa e printa o valor que esta dentro do segundo 
 ```
 
 
+
+
+
+<br/><br/>
 <h1>TXT, DATA ,BSS, HEAP, STACK</h1>
 
 
-arquitetura comum de uma memória de computador:
+**Arquitetura comum de uma memória de computador:**
 
-![link](https://media.geeksforgeeks.org/wp-content/uploads/memoryLayoutC.jpg))
-
+![link](https://media.geeksforgeeks.org/wp-content/uploads/memoryLayoutC.jpg)
+(geeksforgeeks)
 
 Depois que o compilador transforma as linhas de código para o  nível de código de máquina, o código de máquina é carregado na memória em um processo chamado “loading”
 
 stack: guarda método e variáveis locais estaticamente. Sistema aloca automaticamente memoria. 
 
 
-Pointers : 
-
-pega o endereço e assina como um ponteiro
-(p = &i)
 
 
-![pointer](https://www.log2base2.com/images/c/pointer-to-pointer.png)
 
-
-“dereferencing” ir no endereço de memória que o ponteiro esta apontando e acessar o valor que esta la  (*p)
 ```c
 int main(){
 
@@ -186,7 +190,4 @@ printf (“%d”, *c[1]+1); // ou c[1][1] &c[1] [1][0]// c[1] retorna um ponteir
 }
 ```
 
-//print *c or c[] or &c[][]
-//print *(c[0][1] +1) or  c[0][1][1]
-//print *(c[1]+1) or c[1][1] or &c[1][1][0]
 
