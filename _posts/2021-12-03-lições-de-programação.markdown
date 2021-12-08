@@ -92,7 +92,7 @@ printf(“%d”, **dptr); // acessa e printa o valor que esta dentro do segundo 
 
 arquitetura comum de uma memória de computador:
 
-![link](/_site/assets/processmemorylayout.png)
+![link](/assets/processmemorylayout.png)
 
 
 Depois que o compilador transforma as linhas de código para o  nível de código de máquina, o código de máquina é carregado na memória em um processo chamado “loading”
@@ -106,7 +106,7 @@ pega o endereço e assina como um ponteiro
 (p = &i)
 
 
-![pointer](../_site/assets/pointertopointer.png)
+![pointer](/assets/pointertopointer.png)
 
 
 “dereferencing” ir no endereço de memória que o ponteiro esta apontando e acessar o valor que esta la  (*p)
