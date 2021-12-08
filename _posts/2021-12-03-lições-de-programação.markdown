@@ -72,6 +72,7 @@ printf(“%d\n”, p+1); // este endereço será 2006 porque cada inteiro precis
 <h1> Ponteiro para ponteiro </h1> 
 ![pointer](https://www.log2base2.com/images/c/pointer-to-pointer.png)
 <br/><br/>
+<br/><br/>
 **1 byte = 8bits**
 
 **cada int tem 4 bytes que são 32 bits**
@@ -99,6 +100,7 @@ printf(“%d”, **dptr); // acessa e printa o valor que esta dentro do segundo 
 
 
 <br/><br/>
+
 <h1>TXT, DATA ,BSS, HEAP, STACK</h1>
 
 
