@@ -21,7 +21,7 @@ arquitetura da memória :
 
 ```c
 #include <stdio.h>
-#Include <stdlib.h>
+#include <stdlib.h>
 
 int main()
 {
@@ -77,7 +77,7 @@ int main(){
 
 int a = 10; 
 int *ptr = &a; // guarda o endereço de a em ptr
-int **dptr= &ptr // guarda o endereço de ptr em dptr
+int **dptr= &ptr; // guarda o endereço de ptr em dptr
 
 printf(“%d”, *ptr); // acessa printa valor que esta dentro do endereço do primeiro ponteiro
 printf(“%d”, **dptr); // acessa e printa o valor que esta dentro do segundo ponteiro
@@ -120,9 +120,9 @@ p = &i;
 *p=5;
 
 
-print b; // 400
-print *b // 400
-print b[0]; // 400
+//print b; // 400
+//print *b // 400
+//print b[0]; // 400
 }
 ```
 *caractere arrays e ponteiros*
@@ -134,7 +134,7 @@ char *c2;
 
 c2 = c1;
 
-printf (%d, c2[1]);
+printf ("%d" , c2[1]);
 
 
 }
@@ -156,9 +156,9 @@ suponha que o endereço “400” guarde o endereço de memória “200”, send
 int main(){
 int b[2][3]; // vetor 2d
 int (*p)[3] = b
-print b; // 400 → endereço para a primeira posição do vetor
-print *b //400 
-print b[0] //400
+//print b; // 400 → endereço para a primeira posição do vetor
+//print *b //400 
+//print b[0] //400
 ```
 
 
