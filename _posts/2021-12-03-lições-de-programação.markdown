@@ -92,7 +92,7 @@ printf(“%d”, **dptr); // acessa e printa o valor que esta dentro do segundo 
 
 arquitetura comum de uma memória de computador:
 
-![link](/assets/processmemorylayout.png)
+![link](https://media.geeksforgeeks.org/wp-content/uploads/memoryLayoutC.jpg))
 
 
 Depois que o compilador transforma as linhas de código para o  nível de código de máquina, o código de máquina é carregado na memória em um processo chamado “loading”
