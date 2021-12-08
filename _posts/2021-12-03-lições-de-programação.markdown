@@ -168,20 +168,20 @@ int (*p)[3] = b
 ```c
 int main(){
 
-int c[3][2][2]={{{2, 5}, {7,9}}, 
+int c[3] [2] [2]= {{{2, 5}, {7,9}}, 
 		{{3,4}, {6 ,1}},
 		{{0,8}, {11,13}}};
 
 //vetor 3d -> c[i] [j] [k] -> 3 blocos de 2 colunas e 2 linhas cada 
 		
-	int (*p)[2][2]= c;
+	int (*p) [2] [2] = c;
 //printf c //800
 //printf *c ou c[0] &c[0][0] //800
 //print *(c[0][1]+1) ou  c[0][1][1] // 9 →
 //print * (c[1] +1) //
 
 
-printf(“%d %d  %d %d”, c, *c, c[0], &c[0], &c[0][0]);
+printf(“%d %d %d %d”, c, *c, c[0], &c[0], &c[0][0]);
 printf(“%d\n”, c[0][1][1]);
 printf (“%d”, *c[1]+1); // ou c[1][1] &c[1] [1][0]// c[1] retorna um ponteiro para um array e adicionar 1 faz com que essa sentença retorne o ponteiro para o próximo array 
 
