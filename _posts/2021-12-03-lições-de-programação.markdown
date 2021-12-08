@@ -106,7 +106,7 @@ pega o endereço e assina como um ponteiro
 (p = &i)
 
 
-![pointer](/assets/pointertopointer.png)
+![pointer](https://www.log2base2.com/images/c/pointer-to-pointer.png)
 
 
 “dereferencing” ir no endereço de memória que o ponteiro esta apontando e acessar o valor que esta la  (*p)
