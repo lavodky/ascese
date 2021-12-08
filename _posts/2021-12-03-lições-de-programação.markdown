@@ -74,7 +74,7 @@ printf(“%d\n”, p+1); // este endereço será 2006 porque cada inteiro precis
 <br/><br/>
 <br/><br/>
 
-----
+
 
 **1 byte = 8bits**
 
