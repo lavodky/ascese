@@ -169,9 +169,11 @@ int (*p) [3] = b
 //print b; // 400 → endereço para a primeira posição do vetor
 //print *b //400 
 //print b[0] //400
+}
 ```
 
-}
+
+
 
 
 
