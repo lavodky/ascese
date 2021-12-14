@@ -138,13 +138,13 @@ p = &i;
 *caractere arrays e ponteiros*
 ```c
 int main(){
-char c1 [8] = {l,a,v,o,d,k,y};
+char c1 [8] = "lavodky"
 
 char *c2;
 
 c2 = c1;
 
-printf ("%d" , c2[1]);
+printf ("%c" , c2[1]);
 
 
 }
@@ -203,6 +203,13 @@ printf (“%d”, *c[1]+1); // ou c[1][1] &c[1] [1][0]// c[1] retorna um ponteir
 
 <h1>arrays como argumento de funções:</h1>
 
+
+
+
+
+
+
+
 ```c
 #include <stdioh>
 #include <stdlib.h>
@@ -230,11 +237,6 @@ int main()// calling function
    // Double(A, size);
 }
 
-
-
-
-
-
 int SomaDeElementos(int A[], int size) // called function
 // voide Double (int *A, int size)       	
 {
@@ -251,3 +253,218 @@ int i, sum=0;
 
 }
 ```
+<h1> Alocar memoria dinamicamente (heap) </h1>
+**malloc, calloc, realloc, free**
+stack é uma implementação do stack data structure mas o heap não é uma implementação do heap
+data structure 
+
+```c
+int *p;
+int p =(int*) malloc (3 * sizeof(int))
+*p=2
+
+free (p); // limpa pedaço de memoria que malloc acabou de alocar
+
+p = (int *) malloc (20 *size(int))
+
+void * malloc (size_t size) // malloc retorna um ponteiro void com  o endereço 
+do primeiro elemento no bloco // e sempre é inicilizado com lixo na ram
+void *p = malloc (4);
+free(p);
+//calloc - void * calloc (size_t num, size_t) -> inicializa com 0 na ram 
+int p = (int*) *calloc (4, sizeof(int))
+//realloc - void * realloc (void * ptrm size_t size) -> realoca ponteiro 
+free(p);
+//enquanto o  programa não termina a memoria continua com data carregado ->
+na memoria a menos que use free(A)
+//int *B = (int *) realloc(p, 2*n*sizeof(int)); // realocca p
+
+```
+
+<h1> Retornando ponteiro para funções </h1>
+```c
+#include <sdio.h>
+#include <stdlib.h>
+
+void hello()
+{
+	printf("hello");
+}
+int *Add(*int a, *int b) // pointeiros que recebem a, b de main
+{
+	int *c= (int*) malloc (sizeof(int));
+	
+	int *c = (*a) + (*b) ; // dereferecing pointers 
+
+	return c;
+}
+int main()
+{
+	int a = 2, b =4;
+	printf("Endereço de a em main= %d", &a);
+	int c = Add (&a, &b);
+	printf("Sum = %d\n", c);
+}
+```
+
+<h1> ponteiro como funcao </h1>
+
+```c
+int Add (int a, int b)
+{
+	return a+b;
+
+}
+int main(){
+	int c;
+	int (*p) (int, int);
+	p = &Add; // ou p = Add
+	 c = (*p) (2,3); de-referencing 
+	 printf("%d", c); 
+}
+```
+
+
+```c
+
+void PrintHello (char *name){
+	printf("Hello s%\n", name);
+
+}
+int Add ( int a, int b)
+{
+	return a +b;
+
+}
+int main(){
+
+	void (*ptr)(char*);
+	ptr = PrintHello;
+	ptr ("Tom");
+}
+
+
+```
+"Função de ponteiro and callback"
+```c
+void A()
+{
+	printf("Hello");
+}
+void B ( void ( *ptr())
+{
+	ptr();
+}
+int main(){
+	B(A);
+}
+```
+
+
+
+
+
+```c
+
+int compare2 (int a, int b){
+	if (a <b ) return 1
+	return -1
+}
+
+int campare1 (int a, int b){
+
+	if(a >b) return 1;
+	return -1 
+}
+
+void BubleSort (int *A, int n, int (*compare2 ( int, int)
+{
+
+	int i;
+	int j;
+	int temp;
+	for(i=0; i<n; i++)
+		for(j=0; j<n-1; j++){
+			if (compare2(A[j], A[j+1]) >0 {
+				temp = A[j];
+					A[j]= A[j];
+					A[j+1]=temp;
+			}
+		}
+}
+
+int main(){
+#include <stdio.h>
+#include <stdlib.h>
+
+
+	int i, A[]={3, 2, 1,5,6,4};
+	BubbleSort(A,6, compare2);
+	for (i =0; i<6; i++){
+		printf("%d", A[i]);
+	
+
+	}
+	}
+
+```
+
+
+<h1> Memory Leak </h1>
+
+```c
+#include <stdio.h>
+#include <time.h>
+int cash = 100;
+
+void Play(int bet){
+	char *C= (char*)malloc (3*sizeof)(char));
+	C[0]= 'J'; C[1]= 'Q'; C[2]='K';
+	printf("Shuffling ... \n");
+	srand (time(NULL));
+	int i;
+	for (i=0; i<5; i++)
+	{
+
+		int x = rand() % 3;
+		int y = rand() % 3;
+		int temp = C[x];
+		C[x] = C[y];
+		c[y]= temp;
+
+
+	}
+
+int PlayersGuess;
+printf("Whats the position of queen -1, 2 or 3?");
+scanf("%d", &playerGuess);
+if (C[playersGuess - 1] == 'Q'){
+
+	cash+ = 3*bet;
+	print("Yoy win! Result = \"%c %c %c\" Total cash = %d\n", C[0, c[1], c[2], cash);
+
+}
+else {
+	cash -= bet;
+	printf("you lose");
+}
+
+
+
+int main(){
+	int bet;
+	printf("Welcome to virtual Casino \n");
+	printf("Total cash = $%d\n");
+	while(cash>0){
+		printf("whats you bet? $");
+		scanf("%d, &bet);
+		if(bet ==0 || bet > cash) break;
+		Play(bet);
+	}
+
+
+}
+
+```
+
+
