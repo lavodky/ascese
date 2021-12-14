@@ -18,8 +18,8 @@ permalink: "/programação/"
 </ol>
 ----
 <br/><br/>
-<h1> Pointeiro </h1> 
-**Tudo é ponteiro**
+<h1> Ponteiro</h1> 
+
 
 ```c
 #include <stdio.h>
@@ -63,7 +63,7 @@ p = &a; // pega o endereço e assina como um ponteiro
 
 printf(“%d\n”, p);  // suponha que esse endereço seja 2002
 printf(“%d\n”, p+1); // este endereço será 2006 porque cada inteiro precisa de 4 bytes para ser armazenado logo o próximo endereço é o endereço anterior + 4
-//printf(“%d\n”, *(p+1); código acessa e mostra na teal  o valor dentro do endereço de p+1 caso ele existisse
+//printf(“%d\n”, *(p+1); código acessa e mostra na tela  o valor dentro do endereço de p+1 caso ele existisse
 
 }
 
@@ -135,7 +135,7 @@ p = &i;
 //print b[0]; // 400
 }
 ```
-*caractere arrays e ponteiros*
+<h1> Caractere, arrays e ponteiros </h1>
 ```c
 int main(){
 char c1 [8] = "lavodky"
@@ -151,18 +151,15 @@ printf ("%c" , c2[1]);
 ```
 
 
--->Usar o nome do array retorna o endereço do primeiro elemento no array
+**Usar o nome do array retorna o endereço do primeiro elemento no array**
 
-podemos acessar o valor na memória com 
-c1[i] ou  *(c1+i)
-
-
-suponha que o endereço “400” guarde o endereço de memória “200”, sendo assim, se quisermos acessar o valor de alguma posição do array , primeiro “desreferenciamos” o ponteiro *(c2 + i)  ou utilizamos  c2[i]
+**acessar o valor na memória com c1[i] ou  *(c1+i)**
 
 
 ```c
 #include <stdio.h>
 #include <stdlib.h>
+
 int main(){
 int b [2] [3] = {1,2,3,4,5,6} // vetor 2d
 int (*p) [3] = b
@@ -187,8 +184,8 @@ int c[3] [2] [2]= {2, 5, 7, 9, 3, 4, 6 ,1, 0, 8, 11, 13};
 //vetor 3d -> c[i] [j] [k] -> 3 blocos de 2 colunas e 2 linhas cada 
 		
 	int (*p) [2] [2] = c;
-//printf c //800
-//printf *c ou c[0] &c[0][0] //800
+//printf c //endereço 800
+//printf *c ou c[0] &c[0][0] //endereço 800
 //print *(c[0][1]+1) ou  c[0][1][1] // 9 →
 //print * (c[1] +1) //
 
@@ -201,7 +198,7 @@ printf (“%d”, *c[1]+1); // ou c[1][1] &c[1] [1][0]// c[1] retorna um ponteir
 ```
 
 
-<h1>arrays como argumento de funções:</h1>
+<h1>Arrays como argumento de funções:</h1>
 
 
 
@@ -255,7 +252,7 @@ int i, sum=0;
 ```
 <h1> Alocar memoria dinamicamente (heap) </h1>
 **malloc, calloc, realloc, free**
-stack é uma implementação do stack data structure mas o heap não é uma implementação do heap
+obs: stack é uma implementação do stack data structure mas o heap não é uma implementação do heap
 data structure 
 
 ```c
@@ -267,16 +264,14 @@ free (p); // limpa pedaço de memoria que malloc acabou de alocar
 
 p = (int *) malloc (20 *size(int))
 
-void * malloc (size_t size) // malloc retorna um ponteiro void com  o endereço 
-do primeiro elemento no bloco // e sempre é inicilizado com lixo na ram
+void * malloc (size_t size) // malloc retorna um ponteiro void com  o endereço do primeiro elemento no bloco // e sempre é inicilizado com lixo na ram
 void *p = malloc (4);
 free(p);
 //calloc - void * calloc (size_t num, size_t) -> inicializa com 0 na ram 
 int p = (int*) *calloc (4, sizeof(int))
 //realloc - void * realloc (void * ptrm size_t size) -> realoca ponteiro 
 free(p);
-//enquanto o  programa não termina a memoria continua com data carregado ->
-na memoria a menos que use free(A)
+//enquanto o  programa não termina a memoria continua com data carregado na memoria a menos que use free(A)
 //int *B = (int *) realloc(p, 2*n*sizeof(int)); // realocca p
 
 ```
@@ -290,11 +285,11 @@ void hello()
 {
 	printf("hello");
 }
-int *Add(*int a, *int b) // pointeiros que recebem a, b de main
+int *Add(*int a, *int b) // ponteiros que recebem a, b de main
 {
 	int *c= (int*) malloc (sizeof(int));
 	
-	int *c = (*a) + (*b) ; // dereferecing pointers 
+	int *c = (*a) + (*b) ; // "de-referecing pointers" 
 
 	return c;
 }
@@ -345,7 +340,7 @@ int main(){
 
 
 ```
-"Função de ponteiro and callback"
+<h1> Função de ponteiro e callback </h1>
 ```c
 void A()
 {
@@ -365,6 +360,8 @@ int main(){
 
 
 ```c
+#include <stdio.h>
+#include <stdlib.h>
 
 int compare2 (int a, int b){
 	if (a <b ) return 1
@@ -394,9 +391,6 @@ void BubleSort (int *A, int n, int (*compare2 ( int, int)
 }
 
 int main(){
-#include <stdio.h>
-#include <stdlib.h>
-
 
 	int i, A[]={3, 2, 1,5,6,4};
 	BubbleSort(A,6, compare2);
