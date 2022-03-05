@@ -1,0 +1,97 @@
+---
+layout: post
+title:  "introdução ao hacking"
+date:  2022-02-15 09:04
+categories: jekyll update
+permalink: "/introhacking/"
+---
+
+
+
+Redes1
+
+
+lan: redes locais, chamadas de departamentais. Os equipamentos encontra-se 
+geograficamente em um mesmo local, e o numero de maquinas é pequeno. Não muitos
+problemas de interconexão
+
+man: visa cobrir uma area urbana com aproxidamente 30km de raio. Normalmente é composta
+pela interligação de todas as redes locais de uma mesma empresa, na mesam regiao 
+
+wan: redes capazes de alçancar grandes distancias. Seu sinal é reforçado sempre que nao
+haja perda nos dados durante a trasnmissao dos mesmos. No caso de redes privadas, uma wan
+é uma interligaçao das mans de uma mesma instituição. Em se tratanto de redes publicas,
+a wan mais conhecida no mundo é a internet 
+
+
+protocolos 
+
+
+
+Quando as primeiras redes de computadores começaram a sair do papel e ser experimentadas nos 
+laboratorios de tecnologia, havia a necessidade de criar um mecanismo para que cada equi
+pamento ligado nela pudesse se comunicar com os demais, mesmo que fossem equipamentos dif
+erentes. Foram criados entao mensagens-padrao, e se duas maquinas quissesem comunicar-se
+deveriam ambas conhecer tais mensagens. Pela similaridade de ideias, e para fazer uma brinca
+deira com definicao diplomatica, os engenheiros de entao apelidaram essas mensagens-padrao
+de protocolos.
+
+Como funcionam?
+
+Os protocolos sãocomo "frases" que uma interface de rede tem de dizer para poder se comunicar com as outras. Ccomo
+uma expressao "as outras" da frase anterioresta no plural, deve haver alguma forma de todas as maquinas
+concetdas na mesma rede conseguiram, ao "ouvir" uma mensagem, entender se é destinada a elas.
+A primeira providencia que um protocolo de redes deve tomar é declarar de qual protocolo estamos falando.
+Deve haverm em algum lugar no inicio da mensagem, um indicador de protocolo. Deve haver, em algum lugar no inicio
+da mensagem, um indicador de protocolo. Lembre-se: nem sempre existe apenas um protocolo trafegando
+pela rede, entao faz-se necessario identificar a todos.
+Considerando que uma mensagem( ou pacote, que é o termo tecnico correto para essa entidade) em uma rede 
+é um conjunto de dados originados em um nó e destinados a outro, e que esses dados serão
+transimitidos serialmente na forma de bits, é coerente afirmar que termos, no cabo da rede, um
+"trem" de pulsos eletricos sequenciais
+
+montando um pacote usando um protocolo generico e ficticio, criado por nós. Já sabemos que nossa mensagem tem de comeaçar 
+com um identificador de protocolo
+
+protocolo id : alem de definir que o protocolo esta na primeira posição mas devemos definir tambem quantos
+ bits serao usados para indentifica-lo
+
+
+ Vamos supor que, em nossa tecnologia de redes, vão exisitir apenas quatro protocolos diferentes. Para
+ quatro valores diferentes, bastam apenas dois bits. Então, quando publicamos nossas normas e proje
+ tamos nossas placas de rede, ja sabemos: os primeiros dois bits desse pacote identificam qual proto
+ colo estamos usando 
+
+
+Há outra coisa que ja sabemos: qual é a maquina destino do pacotem e qual a maquina de origem. Cada nó
+em uma rede possuiu um identificador único que o diferencia dos demais nós. Esse identificador é comumente chamados
+de endereço, portanto, sabemos que pe preciso inseri, em nosso pacote, quanto bits serao destinados 
+a representacao do endereço de origem e de destino. Nossa tecnologia de redes só vai lidar com 16 nós ao mesmo tempo
+entao quatro bits sao suficientes.
+
+
+Vamos supor que a rede para a qual estamos criando esse protocolo tenha uma limitação: o tamanho dos pacotes nao pode passar de 
+64 bits. Já usamos dois para o protocolo, quatro para o endereço de origem e mais quatro para o 
+endereço de origem e mais quatro para o endereço de origem e mais quatro para o endereço destino. 2+4+4= 10, 
+sobram, entao 54 bits para o payload ( carta util) e demais campos. Um protocolo, por mais simples que sejam deve
+possuir um símbolo que marque o fim dessa mensagem. vamos definir a sequencia de um 1 byte para tal. Ao
+acaso arbitramos 11001011. O simbolo deve ser a ultima coisa que aparece na mensagem. Os 46 bits que 
+sobram podem ser usados para trasnportar nossos dados.
+
+
+Matrioska.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
