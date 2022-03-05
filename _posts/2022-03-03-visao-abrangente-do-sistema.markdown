@@ -9,7 +9,7 @@ permalink: "/sistema/"
 
 **esquema baseado no sistema natural da vida, biologia e realide**
 
-![sistema]()
+![sistema](https://raw.githubusercontent.com/lavodky/ascese/gh-pages/assets/visao_do_sistema_1_novo_modi.jpg)
 
 ---
 
