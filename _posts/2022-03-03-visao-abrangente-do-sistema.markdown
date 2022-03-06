@@ -30,7 +30,7 @@ Premissas que fundamentam esse texto:
 <ol>
   <li value="1">A vida e as tomadas de decisões de qualquer unidade inteligente são limitadas pela natureza e pelo número de possibilidades de cada unidade em seu meio social</li>
   <li>O problema da sociedade também esta no cerébro e esta ligada a interpretação dos indivíduos sobre o sistema</li>
-  <li>Se fossemos analisar racionalmente o sentido da vida  para uma unidade inteligente simples ela seria dada por: dia a dia, familia, escola, cidade, tv, ego...</li>
+  <li>Se fossemos analisar de maneira sistematica o sentido da vida  para uma unidade inteligente simples ela seria dada por: dia a dia, familia, escola, cidade, tv, ego...</li>
 </ol>
 
 
@@ -45,7 +45,7 @@ Vamos dividir as pessoas em 3 grupos:
 
 
 <h3>Unidades inteligentes simples</h3>
-Podem ter representantes em todas as classes sociais. O consumo e os prazeres da carne dão sentido a vida
+Podem ter representantes em todas as classes sociais, em todas as areas, e até mesmo em lugares com pessoas estudadas. O consumo e os prazeres da carne dão sentido a vida
 desse grupo. Os mais pobres nessa divisão buscam por mais sentido e os mais ricos vivem esse sentido. Se baseiam em outras pessoas pra definir quem elas são
 e são afetadas positivamente ou negativamente pela opnião alheia. Em ambas,  o efeito é emocional.
 unidades inteligentes simples entendem todo o sitema em que estão inseridos como algo caotico e desorganizado e por isso
