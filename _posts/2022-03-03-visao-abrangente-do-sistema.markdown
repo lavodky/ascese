@@ -39,8 +39,20 @@ Premissas que fundamentam esse texto:
 Vamos dividir as pessoas em 3 grupos:
 <ol>
   <li value="1">Unidade inteligente simples</li>
+  <ul>
+      <li>unidade inteligente simples intermediaria</li>
+      <li>unidade inteligente simples avançada</li>
+    </ul>
   <li>Unidade inteligente intermediaria</li>
+   <ul>
+      <li>unidade inteligente intermediaria intermediaria</li>
+      <li>unidade inteligente intermediaria avançada</li>
+    </ul>
   <li>Unidade inteligente avançada</li>
+   <ul>
+      <li>unidade inteligente avançada intermediaria</li>
+      <li>unidade inteligente avançada avançada</li>
+    </ul>
 </ol>
 
 
