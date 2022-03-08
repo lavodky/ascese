@@ -60,17 +60,15 @@ palavras chaves desse grupo: viver bem, comer bem, prazer, entreterimento, fofoc
 
 
 
-<blockquote>
-<p>Unidade inteligente simples
-- unidade inteligente simples simples </p>
-</blockquote>
-
 <h3>Unidades inteligentes avançadas</h3>
 Entendem o sistema e tentam fazer a vida valer a pena basendo-se sempre
 em principios logicos realistas e fundamentais, além de buscarem a verdade, são pessoas na maoria das vezes interessantes por que varorilizam o real. 
 Rigorosa  observação da história, dos costumes e dos padroes são fatores que indentificam uma unidade inteligente avançada.
 
-
+<ul>
+      <li>unidade inteligente avançada intermediaria</li>
+      <li>unidade inteligente avançada avançada</li>
+    </ul>
 
 
 <h3> Unidades inteligentes intermediarias </h3>
@@ -78,6 +76,11 @@ Rigorosa  observação da história, dos costumes e dos padroes são fatores que
 Apesar de não reconhecerem rigorosamente como o sistema funciona, essas unidades reconhecem algum padrão, e são atentas de maneira cautelosa a coisas
 que se repetem, são facialmente upadas para unidades inteligentes avançadas se instruidas por uma unidade inteligente avançada
 
+
+<ul>
+      <li>unidade inteligente intermediaria intermediaria</li>
+      <li>unidade inteligente intermediaria avançada</li>
+    </ul>
 ---
 
 
