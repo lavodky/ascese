@@ -56,7 +56,14 @@ simples estão destruindo o mundo.
 
 
 
-palavras chaves desse grupo: viver bem, comer bem, prazer, entreterimento, fofoca, comedia, senso comumum    
+palavras chaves desse grupo: viver bem, comer bem, prazer, entreterimento, fofoca, comedia, senso comumum   
+
+
+
+<blockquote>
+<p>Unidade inteligente simples
+- unidade inteligente simples simples </p>
+</blockquote>
 
 <h3>Unidades inteligentes avançadas</h3>
 Entendem o sistema e tentam fazer a vida valer a pena basendo-se sempre
