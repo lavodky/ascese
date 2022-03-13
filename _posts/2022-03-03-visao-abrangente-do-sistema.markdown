@@ -148,6 +148,15 @@ a problematica do costume e da convivencia pode ser claramente representada por 
 como produzir mais unidades inteligentes avançadas?
 
 
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ [post.url ](https://lavodky.github.io/ascese/programa%C3%A7%C3%A3o/)}}">{{ lições de programação}}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+
 
 
 
