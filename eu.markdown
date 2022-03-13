@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /eu/
+title: ME
 ---
 
-<!DOCTYPE html>
 <html>
 <head>
 <style>
