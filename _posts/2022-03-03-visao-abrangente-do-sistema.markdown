@@ -8,7 +8,11 @@ permalink: "/sistema/"
 
 
 **esquema baseado no sistema natural da vida, biologia e realide**
+ 
+---
 **Isso não é um critica ao capitalismo**
+
+---
 
 
 **O objetivo desse texto é organizar o sistema inteiro que estamos inseridos. E quando digo estamos, estou incluindo 
@@ -43,7 +47,8 @@ em 3 grandes grupos, e em cada um 2 sub-grupos:
 </ol>
 
 ---
-## Todas as unidades inteligentes estão contidas no esquema abaixo. Aos indivíduos mais astutos que através da observação conseguem sobrepor, pelo menos em análise, sua natureza, conseguem perceber que não estão totalmente no controle absoluto de suas decisões. Avançando nesse conceito, é possível ter uma visão inteira do sistema. 
+
+Todas as unidades inteligentes estão contidas no esquema abaixo. Aos indivíduos mais astutos que através da observação conseguem sobrepor, pelo menos em análise, sua natureza, conseguem perceber que não estão totalmente no controle absoluto de suas decisões. Avançando nesse conceito, é possível ter uma visão inteira do sistema. 
 
 ![sistema](https://raw.githubusercontent.com/lavodky/ascese/gh-pages/assets/visao_do_sistema_1_novo_modi.jpg)
 
