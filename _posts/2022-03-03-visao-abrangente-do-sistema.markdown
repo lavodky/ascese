@@ -42,7 +42,8 @@ em 3 grandes grupos, e em cada um 2 sub-grupos:
     </ul>
 </ol>
 
-
+---
+## Todas as unidades inteligentes estão contidas no esquema abaixo. Aos indivíduos mais astutos que através da observação conseguem sobrepor, pelo menos em análise, sua natureza, conseguem perceber que não estão totalmente no controle absoluto de suas decisões. Avançando nesse conceito, é possível ter uma visão inteira do sistema. 
 
 ![sistema](https://raw.githubusercontent.com/lavodky/ascese/gh-pages/assets/visao_do_sistema_1_novo_modi.jpg)
 
@@ -81,7 +82,7 @@ simples estão destruindo o mundo.
 palavras chaves desse grupo: viver bem, comer bem, prazer, entreterimento, fofoca, comedia, senso comumum   
 
 
-
+---
 <h3>Unidades inteligentes avançadas</h3>
 Entendem o sistema e tentam fazer a vida valer a pena basendo-se sempre
 em principios logicos realistas e fundamentais, além de buscarem a verdade, são pessoas na maoria das vezes interessantes por que varorilizam o real. 
@@ -92,7 +93,7 @@ Rigorosa  observação da história, dos costumes e dos padroes são fatores que
       <li>unidade inteligente avançada avançada</li>
     </ul>
 
-
+---
 <h3> Unidades inteligentes intermediarias </h3>
 
 Apesar de não reconhecerem rigorosamente como o sistema funciona, essas unidades reconhecem algum padrão, e são atentas de maneira cautelosa a coisas
