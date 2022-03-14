@@ -10,6 +10,7 @@ title: ME
 h1 {text-align: center;}
 p {text-align: center;}
 div {text-align: center;}
+.circular--square { border-top-left-radius: 50% 50%; border-top-right-radius: 50% 50%; border-bottom-right-radius: 50% 50%; border-bottom-left-radius: 50% 50%; }
 </style>
 </head>
 <body>
@@ -22,3 +23,5 @@ div {text-align: center;}
 </html>
 
 <img class="circular--square" src="https://avatars.githubusercontent.com/u/43838148?s=96&v=4" />
+
+
