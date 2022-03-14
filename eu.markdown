@@ -7,7 +7,7 @@ title: ME
 <html>
 <head>
 <style>
-    .circular--square {
+.circular--square {
   opacity:100%;
   transition:opacity 2s
 }
@@ -17,6 +17,10 @@ div {text-align: center;}
 .circular--square { border-top-left-radius: 50% 50%; border-top-right-radius: 50% 50%; border-bottom-right-radius: 50% 50%; border-bottom-left-radius: 50% 50%; }
 .fade-in-image {
   opacity: 50%;
+}
+.circular--square:hover {
+  opacity:100%;
+  transition:opacity 2s
 }
 
 
