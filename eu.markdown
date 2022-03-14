@@ -22,7 +22,6 @@ div {text-align: center;}
   opacity:100%;
   transition:opacity 2s
 }
-  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@900&display=swap');
 ul {
   position: relative;
   display: flex;
@@ -79,9 +78,9 @@ input[type="checkbox"]:checked ~ div {
   animation: glow 1.5s linear infinite;
 }
 @keyframes glow {
-  0% {
-    filter: hue-rotate(0deg);
-  }
+0%{
+filter: hue-rotate(0deg);
+}
   100% {
     filter: hue-rotate(360deg);
   }
