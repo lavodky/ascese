@@ -35,26 +35,20 @@ permalink: /hacking/
 </ul>
 
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@900&display=swap');body {
-padding: 0;
-  margin: 0; 
-  height: 100vh;
-  background: #18191f;
-  font-family: 'Poppins', sans-serif;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
+
 ul {
   position: relative;
   display: flex;
 }
+
 li {
   list-style: none;
 }
+
 label {
   position: relative;
 }
+
 input[type="checkbox"] {
   position: absolute;
   opacity: 0;
@@ -68,13 +62,13 @@ div {
   position: relative;
   height: 80px;
   width: 80px;
-  background: #18191f;
-  color: #555;
+  
+  
   display: flex;
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: 46px;
+  font-size: 36px;
   cursor: pointer;
   margin: 0 4px;
   border-radius: 20px;
@@ -103,15 +97,13 @@ input[type="checkbox"]:checked ~ div {
   text-shadow: 0 0 15px yellow, 0 0 25px yellow;
   animation: glow 1.5s linear infinite;
 }
-@keyframes glow 
-{
-0%
-{
-filter: hue-rotate(0deg);
-}
-100% 
-{
-filter: hue-rotate(360deg);
-}
+
+@keyframes glow {
+  0% {
+    filter: hue-rotate(0deg);
+  }
+  100% {
+    filter: hue-rotate(360deg);
+  }
 }
 </style>
