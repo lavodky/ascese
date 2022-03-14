@@ -2,7 +2,6 @@
 layout: page
 permalink: /eu/
 title: ME
-layout: coffee
 ---
 
 
@@ -36,7 +35,9 @@ div {text-align: center;}
 <h1>zkowsky</h1>
 <p>C/C++ and Assembly</p>
 <div>Quero um emprego</div>
-
+ <footer>
+      <a href="https://www.buymeacoffee.com/lavodky" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;"></a>
+    </footer>
 </body>
 </html>
 
