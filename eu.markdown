@@ -2,7 +2,10 @@
 layout: page
 permalink: /eu/
 title: ME
+layout: coffee
 ---
+
+
 
 <html>
 <head>
@@ -39,6 +42,8 @@ div {text-align: center;}
 
 </body>
 </html>
+
+
 
 
 
