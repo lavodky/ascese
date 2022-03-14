@@ -14,7 +14,7 @@ div {text-align: center;}
 </style>
 </head>
 <body>
-
+<img class="circular--square" src="https://avatars.githubusercontent.com/u/43838148?s=96&v=4" />
 <h1>Lavodky</h1>
 <p>C/C++ and Assembly</p>
 <div>Quero um emprego</div>
@@ -22,6 +22,6 @@ div {text-align: center;}
 </body>
 </html>
 
-<img class="circular--square" src="https://avatars.githubusercontent.com/u/43838148?s=96&v=4" />
+
 
 
