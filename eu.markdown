@@ -23,16 +23,6 @@ div {text-align: center;}
   transition:opacity 2s
 }
   @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@900&display=swap');
-body {
-  padding: 0;
-  margin: 0; 
-  height: 100vh;
-  background: #18191f;
-  font-family: 'Poppins', sans-serif;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
 ul {
   position: relative;
   display: flex;
