@@ -1,5 +1,4 @@
 ---
-title: HACKING
 permalink: /hacking/
 ---
 
