@@ -22,6 +22,10 @@ div {text-align: center;}
   opacity:100%;
   transition:opacity 2s
 }
+instagram-media{
+max-width: 70%;
+height:70%;
+}
 
 
 
